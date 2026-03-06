@@ -49,13 +49,11 @@ Follow these steps:
    cd ATM-Machine
 
 - **Compile the Program:**
-```bash
-javac ATM.java
----
-After compiling, some .class files will be created.
-Run the program:
-```bash
-java ATM
+  ```bash
+  javac ATM.java
+- **Run the Program:**
+  ```bash
+  java ATM
 
 ---
 ## Visual
@@ -65,9 +63,17 @@ After running the command in #7, you should see this interface:
 
 ---
 # For Developers
+**Want to improve this project?**
+`You can contribute.`
+## Steps to Contribute:
+- Fork this repository
+- Create a new branch
+- Make your changes
+- Push your code
+- Open a Pull Request
 
-## Contribution Guidelines
+## Summary:
+This project is a beginner-friendly Java ATM system.
+It helps users understand how basic banking operations work in a console application.
+`Paste this into your README.md file.`
 
-### Working on Issues
-
-If you see an issue that has not been raised, create an issue first, and discuss the changes you want to make with the project's lead developers
